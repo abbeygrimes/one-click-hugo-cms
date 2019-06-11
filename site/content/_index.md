@@ -3,19 +3,13 @@ title: Sock Club Face Socks
 subtitle: 'Let''s get your face, your dog, your dad on some socks!'
 image: /img/googleday.jpg
 blurb:
-  heading: Why Kaldi?
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Why Socks
+  text: Because socks are DOPE!
 intro:
-  heading: What we offer
+  heading: What is the process like?
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    We have 8 templates to choose from. All you have to do is upload a photo and
+    our team will send you back a proof before starting production.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
